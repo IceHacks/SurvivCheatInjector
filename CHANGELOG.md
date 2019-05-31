@@ -9,8 +9,8 @@ Most major updates are shown.
 ### v0.4.4 _(MAY 18)_
 - autoloot fix
 - unpatched
-- removed emotespam
-- removed EOK
+	- removed emotespam
+	- removed EOK
 ### v0.3.2 _(APR 28)_
 - updated aimbot
 - tested bulletdodge
