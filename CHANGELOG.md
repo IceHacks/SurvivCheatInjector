@@ -11,7 +11,7 @@ Most major updates are shown.
 - unpatched
 - removed emotespam
 - removed EOK
-### v0.3.2_(APR 28)_
+### v0.3.2 _(APR 28)_
 - updated aimbot
 - tested bulletdodge
 ### v0.2.8 _(APR 25)_
