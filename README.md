@@ -18,6 +18,7 @@ If you get any errors make sure to have the right folder selected.
 - bumpfire
 - no-roofs
 - esp
+- UI (yay)
 
 `* = manual enable required`
 ## Help
