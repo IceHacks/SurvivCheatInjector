@@ -14,13 +14,12 @@ If you get any errors make sure to have the right folder selected.
 ## Latest Features
 - aimbot (customizable inertia)
 - autoloot
-- spinbot* (customizable speed)
+- spinbot (customizable speed)
 - bumpfire
 - no-roofs
 - esp
 - UI (yay)
 
-`* = manual enable required`
 ## Help
 #### The cheat isn't aiming
 You have to hold the right (secondary) mouse button to aim. There is a way to disable this.
