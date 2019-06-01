@@ -1,9 +1,13 @@
 # Changelog
 Most major updates are shown.
+## 2019
+### v0.5.0 _(JUN 1)_
+- bug fixes
 ### v0.5.0 _(MAY 31)_
 - updated aimbot
 - added bumpfire
 - added UI
+	- improved UI
 ### v0.4.6 _(MAY 29)_
 - aiming fix
 ### v0.4.4 _(MAY 18)_
@@ -30,3 +34,5 @@ Most major updates are shown.
 - added aimbot
 ### v0.0.0 _(MAR 15)_
 - initial injector test
+## 2018
+Nothing recorded.
