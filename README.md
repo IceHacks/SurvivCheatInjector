@@ -20,6 +20,12 @@ If you get any errors make sure to have the right folder selected.
 - esp
 - UI (yay)
 
+## What I'm Working On
+- new aim features
+- autoloot fixes
+- option for roof's
+- autoaim using structure collisions
+
 ## Help
 #### The cheat isn't aiming
 You have to hold the right (secondary) mouse button to aim. There is a way to disable this.
