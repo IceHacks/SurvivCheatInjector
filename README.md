@@ -12,7 +12,7 @@ To install the cheat:
 
 If you get any errors make sure to have the right folder selected.
 ## Latest Features
-- aimbot (customizable inertia)
+- aimbot (customizable lerp)
 - autoloot
 - spinbot (customizable speed)
 - bumpfire
