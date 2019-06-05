@@ -1,6 +1,9 @@
 # Changelog
 Most major updates are shown.
 ## 2019
+### v0.5.1 _(JUN 4)_
+- aimbot optimization
+- autoloot fix
 ### v0.5.0 _(JUN 1)_
 - bug fixes
 ### v0.5.0 _(MAY 31)_
