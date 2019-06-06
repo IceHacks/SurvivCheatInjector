@@ -1,4 +1,5 @@
 # Surviv Cheat Injector
+### Note: if you like this cheat star it.
 ## Download
 To download simply go into the [build folder](https://github.com/IceHacks/SurvivCheatInjector/tree/master/build) and find the latest `ZIP` file. To receive the `ZIP` file click on it and then select "view raw".
 ## Installation
