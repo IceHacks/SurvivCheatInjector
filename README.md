@@ -22,7 +22,6 @@ If you get any errors make sure to have the right folder selected.
 
 ## What I'm Working On
 - new aim features
-- autoloot fixes
 - option for roof's
 - autoaim using structure collisions
 
