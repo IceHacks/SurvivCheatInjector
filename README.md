@@ -27,8 +27,9 @@ If you get any errors make sure to have the right folder selected.
 
 ## What I'm Working On
 - new aim features
-- option for roof's
-- autoaim using structure collisions
+- more settings for all the cheat features
+- grenade spam
+- and more™
 
 ## Freezing?
 All of the sudden on June 3, 2019 this hack started freezing. There wasn't even a surviv update. We are still trying to find out why and patch it but for now here are some things that seem to work.
