@@ -13,12 +13,14 @@ To install the cheat:
 
 If you get any errors make sure to have the right folder selected.
 ## Latest Features
-- aimbot (customizable lerp)
-- autoloot
-- spinbot (customizable speed)
-- bumpfire
-- no-roofs
-- esp
+- AimBot <sub><sup>with Lerp</sup></sub>
+- AutoLoot
+- SpinBot™ <sub><sup>for special people</sup></sub>
+- BumpFire
+- Roof Cheat
+- ESP
+- LaserSight™
+- LaserSight™ <sub><sup>for enemies</sup></sub>
 - UI (yay)
 
 ## What I'm Working On
