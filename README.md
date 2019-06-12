@@ -32,9 +32,7 @@ If you get any errors make sure to have the right folder selected.
 - and more™
 
 ## Freezing?
-All of the sudden on June 3, 2019 this hack started freezing. There wasn't even a surviv update. We are still trying to find out why and patch it but for now here are some things that seem to work.
-
-- don't play in full-screen (at least not the first-round)
+It shouldn't be. Open an issue.
 
 ## Help
 #### The cheat isn't aiming
