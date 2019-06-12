@@ -21,6 +21,8 @@ If you get any errors make sure to have the right folder selected.
 - ESP
 - LaserSight™
 - LaserSight™ <sub><sup>for enemies</sup></sub>
+- AutoAlert™
+- Emote on Kill <sub><sup>the right emote</sup></sub>
 - UI (yay)
 
 ## What I'm Working On
