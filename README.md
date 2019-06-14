@@ -12,10 +12,9 @@ To install the cheat:
 5. Browse you files and select the path that contains `manifest.json`.
 
 If you get any errors make sure to have the right folder selected.
-## Latest Features
+## Features
 - AimBot <sub><sup>with Lerp</sup></sub>
 - AutoLoot
-- SpinBot™ <sub><sup>for special people</sup></sub>
 - BumpFire
 - Roof Cheat
 - ESP
@@ -24,6 +23,10 @@ If you get any errors make sure to have the right folder selected.
 - AutoAlert™
 - Emote on Kill <sub><sup>the right emote</sup></sub>
 - UI (yay)
+
+#### Premium
+- SpinBot™
+- Cache Detector™
 
 ## What I'm Working On
 - new aim features
