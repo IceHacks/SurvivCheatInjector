@@ -14,18 +14,18 @@ To install the cheat:
 If you get any errors make sure to have the right folder selected.
 ## Features
 - AimBot <sub><sup>with Lerp</sup></sub>
-- AutoLoot <sub><sup>with QuickTel™</sup></sub>
-- BumpFire <sub><sup>fast af and doesn't break after every update</sup></sub>
+- AutoLoot
+- BumpFire
 - Roof Cheat <sub><sup>no roofs :)</sup></sub>
 - ESP <sub><sup>Above and Below my friend</sup></sub>
-- LaserSight™ <sub><sup>Pew Pew the right, accurate way</sup></sub>
+- LaserSight™
 - AutoAlert™ <sub><sup>The survivrs are coming! The survivrs are coming!</sup></sub>
 - Emote on Kill <sub><sup>Uses the right emote</sup></sub>
 - UI (yay)
 
 #### Premium
-- SpinBot™ <sub><sup>Spin4Dayz™</sup></sub>
-- Cache Detector™ <sub><sup>MoistAKGrenade™</sup></sub>
+- SpinBot™ <sub><sup>Doesn't change hitbox cuz ur a circle, idiot</sup></sub>
+- Cache Detector™
 
 ## What I'm Working On
 - new aim features
