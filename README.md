@@ -19,19 +19,10 @@ If you get any errors make sure to have the right folder selected.
 - Roof Cheat <sub><sup>no roofs :)</sup></sub>
 - ESP <sub><sup>Above and Below my friend</sup></sub>
 - LaserSight™
-- AutoAlert™ <sub><sup>The survivrs are coming! The survivrs are coming!</sup></sub>
-- Emote on Kill <sub><sup>Uses the right emote</sup></sub>
 - UI (yay)
 
 #### Premium
-- SpinBot™ <sub><sup>Doesn't change hitbox cuz ur a circle, idiot</sup></sub>
-- Cache Detector™
-
-## What I'm Working On
-- new aim features
-- more settings for all the cheat features
-- grenade spam
-- and more™
+- Working on it.
 
 ## Freezing?
 It shouldn't be. Open an issue elaborating on it.
