@@ -18,6 +18,8 @@ If you get any errors make sure to have the right folder selected.
 - BumpFire
 - Roof Cheat <sub><sup>no roofs :)</sup></sub>
 - ESP <sub><sup>Above and Below my friend</sup></sub>
+- SniperSwitch™
+- ThreatBox™
 - LaserSight™
 - UI (yay)
 
@@ -36,6 +38,9 @@ Kill yourself. Jokes aside there is a way to disable this. With the click of a b
 
 #### SpinBot's not working
 SpinBot&trade; is only for _special_ people.
+
+#### How to change settings
+Click the option. (Right click to set custom value on numbers/colors).
 
 Join our official discord: https://discord.gg/TaY5Esf
 We welcome you, we pay attention to you (unlike someone I know), we are IceHacks
