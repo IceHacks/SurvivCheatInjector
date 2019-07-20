@@ -1,7 +1,7 @@
 # Surviv Cheat Injector
 ### Note: if you like this cheat, please star it.
 ## Download
-To download simply go into the [build folder](https://github.com/IceHacks/SurvivCheatInjector/tree/master/build) and find the latest `ZIP` file. To receive the `ZIP` file click on it and then select "view raw".
+To download simply go into the [release page](https://github.com/IceHacks/SurvivCheatInjector/releases) and download the latest `ZIP` file.
 ## Installation
 To install the cheat:
 
@@ -22,22 +22,15 @@ If you get any errors make sure to have the right folder selected.
 - ThreatBox™
 - LaserSight™
 - UI (yay)
-
-#### Premium
-- Working on it.
+- BulletDodge
+- SpinBot
 
 ## Freezing?
 It shouldn't be. Open an issue elaborating on it.
 
 ## Help
-#### The cheat isn't aiming
-You have to hold the right (secondary) mouse button to aim by default. You can turn on AutoAim for it to aim automatically for you.
-
-#### I don't want autoloot
-Kill yourself. Jokes aside there is a way to disable this. With the click of a button that is...
-
-#### SpinBot's not working
-SpinBot&trade; is only for _special_ people.
+#### Binds
+Binds can be edited by opening the menu ("N") and then pressing the (blue) "edit binds" button. To edit a bind click on it (it will turn yellow) and press a key or mouse button.
 
 #### How to change settings
 Click the option. (Right click to set custom value on numbers/colors).
