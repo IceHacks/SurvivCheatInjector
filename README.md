@@ -1,7 +1,7 @@
 # Surviv Cheat Injector
 ### Note: if you like this cheat, please star it.
 ## Download
-To download simply go into the [release page](https://github.com/IceHacks/SurvivCheatInjector/releases) and download the latest `ZIP` file.
+To download simply go into the [release page](https://github.com/IceHacks/SurvivCheatInjector/releases) and download the [latest](https://github.com/IceHacks/SurvivCheatInjector/releases/latest) `ZIP` file.
 ## Installation
 To install the cheat:
 
