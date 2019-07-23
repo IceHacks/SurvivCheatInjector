@@ -5,11 +5,11 @@ To download simply go into the [release page](https://github.com/IceHacks/Surviv
 ## Installation
 To install the cheat:
 
-1. Extract the `ZIP` file into a folder (remember that path).
-2. Open Google Chrome (or any chromium based browser) and go to `chrome://extensions`.
+1. Extract the `ZIP` file into a folder (remember the folder path).
+2. Open Google Chrome (or any [chromium](https://chromium.org) based browser) and go to `chrome://extensions`.
 3. Toggle developer mode in the top-right corner of the page.
-4. Click `load unpacked` on the left-hand side.
-5. Browse you files and select the path that contains `manifest.json` aka the folder you extracted the files (and the files only).
+4. Click `Load Unpacked` on the top-left corner.
+5. Find the folder you extracted the `ZIP` into and keep opening subfolders until you get to a folder that contains `files` and `manifest.json`. Select that folder.
 
 If you get any errors make sure to have the right folder selected.
 ## Features
