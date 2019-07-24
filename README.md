@@ -1,5 +1,6 @@
 # Surviv Cheat Injector
 ### Note: if you like this cheat, please star it.
+### Note: Check out [my YouTube Channel](https://www.youtube.com/channel/UCPxPCDp0sYnjZWEmfN9jHyQ) where you can find special offers and promotions!
 ## Download
 To download simply go into the [release page](https://github.com/IceHacks/SurvivCheatInjector/releases) and download the [latest](https://github.com/IceHacks/SurvivCheatInjector/releases/latest) `ZIP` file.
 ## Installation
