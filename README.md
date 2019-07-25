@@ -36,6 +36,5 @@ Binds can be edited by opening the menu ("N") and then pressing the (blue) "edit
 #### How to change settings
 Click the option. (Right click to set custom value on numbers/colors).
 
-Join our official discord: https://discord.gg/TaY5Esf
 We welcome you, we pay attention to you (unlike someone I know), we are IceHacks
 Enjoy?
