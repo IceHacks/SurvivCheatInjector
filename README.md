@@ -1,5 +1,3 @@
-# Broke atm, don't worry I'll be back on 8/17/19 to work on it. I gtg. They did something strange but I'll fix.
-
 # Surviv Cheat Injector
 ### Note: if you like this cheat, please star it.
 ### Note: School started, I'm busy.
