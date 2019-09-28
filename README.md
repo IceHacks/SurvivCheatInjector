@@ -13,9 +13,9 @@ How to install IceHacks:
 
 1. Extract the `ZIP` file into a folder (if on ChromeOS follow [extraction instructions](#extraction)).
 3. Open Chrome*, and enter "chrome://extensions" in the address bar, or get to extensions via settings. 
-4. Once you have gotten to extensions, click the button on the top right labeled "Developer Mode" to turn on Dev Mode. 
-5. Now on the top left corner, there is a button labeled "Load Unpacked". Click that and select the folder in which you extracted the Cheat files. 
-6. You now have the IceHacks Cheat! (Or you should). If you want to enable IceHacks for Incognito, click on "Details", scroll down and select "Allow in Incognito".
+4. Once you have gotten to extensions, click the button on the top right labeled "developer mode" to turn on Dev Mode. 
+5. Now on the top left corner, there is a button labeled "load unpacked". Click that and select the folder in which you extracted the Cheat files. 
+6. You now have the IceHacks cheat! (Or you should). If you want to enable IceHacks for incognito, click on "details", scroll down and select "allow in incognito".
 
 <sup>\* The cheat supports any chromium browser with extension support (this includes: Opera, Chrome, Edge Chromium, Vivaldi, ...).</sup>
 
