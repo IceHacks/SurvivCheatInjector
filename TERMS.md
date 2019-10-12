@@ -1,5 +1,5 @@
 # TERMS AND CONDITIONS
-### These are the terms for the Surviv Cheat Injector product.
+### These are the terms for all my products.
 Use of this product require the obeying of these written rules.
 
 - reproduction of this product with claims to creation is not allowed
