@@ -6,6 +6,6 @@ Use of this product require the obeying of these written rules.
 - duplication is not allowed
 - production in videos is prohibited unless you have permission
 - this product is not for retail sale or any other sale
-- I am not responsible for your actions
+- I am not responsible for the outcomes of your actions
 
 basically this is mine and I am keeping it that way.
