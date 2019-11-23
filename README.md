@@ -1,3 +1,5 @@
+## Update coming soon! Just need to re-add most of the features. Please tell me the ones you want to keep the most!
+
 # Surviv Cheat Injector
 ![screenshot](https://i.imgur.com/xNDDoKS.png)
 ### Note: if you like this cheat, please star it.
