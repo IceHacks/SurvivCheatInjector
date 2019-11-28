@@ -29,14 +29,14 @@ If you get any errors while installing make sure to have the right folder select
 - BumpFire
 - ESP <sub><sup>Above and Below my friend</sup></sub>
 - SniperSwitch™
-- ThreatBox™
+- ThreatBox™ (removed, to-do)
 - LaserSight™
-- Bullet Dodge
+- Bullet Dodge (removed, to-do)
 - SpinBot™
 - Auto Heal
 - Door Opener
 - AutoAttack™
-- Auto Switch
+- Auto Switch (removed, to-do)
 
 ## Extraction
 How to extract on any system:
@@ -44,15 +44,6 @@ How to extract on any system:
 1. Make a new folder on your desktop or in your files.
 2. Open the zip (just left-click it twice) and copy and paste ALL the files (there should be 4 separate folders/files) from the ZIP to the folder that you created. 
 
-## Freezing?
-It shouldn't be. Open an issue elaborating on it.
-
-## Help
-#### Binds
-Binds can be edited by opening the menu ("N") and then pressing the (blue) "edit binds" button. To edit a bind click on it (it will turn yellow) and press a key or mouse button.
-
-#### How to change settings
-Click the option. (Right-click to set a custom value on numbers/colors).
 
 We welcome you, we pay attention to you (unlike someone I know), we are IceHacks
 Enjoy?
