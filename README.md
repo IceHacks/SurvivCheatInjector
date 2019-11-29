@@ -31,7 +31,7 @@ If you get any errors while installing make sure to have the right folder select
 - LaserSight™
 - Bullet Dodge (removed, to-do)
 - SpinBot™
-- Auto Heal
+- Auto Heal (removed, to-do)
 - Door Opener
 - AutoAttack™
 - Auto Switch (removed, to-do)
