@@ -21,20 +21,38 @@ How to install IceHacks:
 <sup>\* The cheat supports any chromium browser with extension support (this includes: Opera, Chrome, Edge Chromium, Vivaldi, ...).</sup>
 
 If you get any errors while installing make sure to have the right folder selected.
+
 ## Features
-- AimBot <sub><sup>with Lerp and Velocity</sup></sub>
-- AutoLoot
-- BumpFire
-- ESP <sub><sup>Above and Below my friend</sup></sub>
-- SniperSwitch™
-- ThreatBox™ (removed, to-do)
-- LaserSight™
-- Bullet Dodge (removed, to-do)
+- AimBot
+  - Type
+    - Auto aim
+    - Aaim on shoot
+    - Aim with RMB
+  - Aim collisions
+  - Aim using mouse
+  - AutoAttack™
+  - AutoShoot™
+  - MobileMovement™
+  - Aim FOV
+  - Velocity multiplier
+- Bumpfire
+- ESP
+  - Flashlights
+  - Blast radius
+- Autoloot and Autodoors
 - SpinBot™
-- Auto Heal (removed, to-do)
-- Door Opener
-- AutoAttack™
-- Auto Switch (removed, to-do)
+  - Spin angle
+- SniperSwitch™
+  - Ignore automatic weapons
+  - Minimum speed
+- Transparency
+  - Obstacles
+  - Ceilings
+  
+## To-do
+- AutoSwitch™
+- AutoHeal™
+- Bullet dodge
 
 ## Extraction
 How to extract on any system:
