@@ -30,21 +30,24 @@ If you get any errors while installing make sure to have the right folder select
     - Aim with RMB
   - Aim collisions
   - Aim using mouse
+  - Aim at objects
+  - Aim at downed
   - AutoAttack™
   - AutoShoot™
   - MobileMovement™
   - Aim FOV
   - Velocity multiplier
+- Autoloot and Autodoors
 - Bumpfire
 - ESP
   - Flashlights
   - Blast radius
-- Autoloot and Autodoors
 - SpinBot™
   - Spin angle
 - SniperSwitch™
   - Ignore automatic weapons
   - Minimum speed
+- Grenade Timer
 - Transparency
   - Obstacles
   - Ceilings
