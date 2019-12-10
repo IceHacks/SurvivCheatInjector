@@ -54,9 +54,7 @@ If you get any errors while installing make sure to have the right folder select
   - Ceilings
   
 ## To-do
-- AutoSwitch™
-- AutoHeal™
-- Bullet dodge
+https://github.com/IceHacks/SurvivCheatInjector/projects/2
 
 ## Extraction
 How to extract on any system:
