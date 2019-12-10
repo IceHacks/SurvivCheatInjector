@@ -7,6 +7,7 @@ How to download IceHacks:
 
 1. Go to the [download page](https://github.com/IceHacks/SurvivCheatInjector/releases/latest).
 2. Click on "latest.zip" under "Assets", you will download the cheats `ZIP`.
+
 ## Installation
 To install the cheat:
 
