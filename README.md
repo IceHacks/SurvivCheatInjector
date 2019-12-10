@@ -62,8 +62,8 @@ How to extract on any system:
 1. Make a new folder on your desktop or in your files.
 2. Open the zip (just left-click it twice) and copy and paste ALL the files (there should be 4 separate folders/files) from the ZIP to the folder that you created. 
 
+## Not working?
 
-We welcome you, we pay attention to you (unlike someone I know), we are IceHacks
-Enjoy?
+Check out my friends cheat, maybe it is working c: https://github.com/u1qqlv/SURVIV.IO-PRO-HACK
 
 cheat, surviv, io games, icehacks, ice, hacks, free, working, 2019, 2018, 2017, aimbot, survivio
