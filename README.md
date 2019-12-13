@@ -9,8 +9,6 @@ How to download IceHacks:
 2. Click on "latest.zip" under "Assets", you will download the cheats `ZIP`.
 
 ## Installation
-To install the cheat:
-
 How to install IceHacks: 
 
 1. Extract the `ZIP` file into a folder (if on ChromeOS follow [extraction instructions](#extraction)).
