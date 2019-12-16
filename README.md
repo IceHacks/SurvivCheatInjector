@@ -64,4 +64,10 @@ How to extract on any system:
 
 Check out my friends cheat, maybe it is working c: https://github.com/u1qqlv/SURVIV.IO-PRO-HACK
 
+## Other projects
+
+Someother surviv.io projects to look at:
+- Custom sounds https://github.com/humphreygaming/survivcustomsounds
+- Pro hack https://github.com/u1qqlv/SURVIV.IO-PRO-HACK
+
 cheat, surviv, io games, icehacks, ice, hacks, free, working, 2019, 2018, 2017, aimbot, survivio
