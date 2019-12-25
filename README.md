@@ -66,7 +66,7 @@ Check out my friends cheat, maybe it is working c: https://github.com/u1qqlv/SUR
 
 ## Other projects
 
-Someother surviv.io projects to look at:
+Some other surviv.io projects to look at:
 - Custom sounds https://github.com/humphreygaming/survivcustomsounds
 - Pro hack https://github.com/u1qqlv/SURVIV.IO-PRO-HACK
 
