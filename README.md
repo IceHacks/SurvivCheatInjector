@@ -1,5 +1,5 @@
 # Surviv Cheat Injector
-![screenshot](https://i.ibb.co/FB8jYXb/image.png)
+![screenshot](https://ibb.co/12mZw5C)
 ### Note: if you like this cheat, please star it.
 ### Note: Subscribe to [my YouTube Channel](https://www.youtube.com/c/IceHacks) where you can find special offers and promotions!
 ## Download
