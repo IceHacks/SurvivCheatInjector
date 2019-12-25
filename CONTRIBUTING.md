@@ -5,13 +5,13 @@ Here are some volunteer positions we would like filled:
 - Customer support
   - Answering/closing issues
   - Helping people install cheats
-  - **Requires**: communication skills
+  - **Requires**: communication skills and patience (lots)
 - Marketing
   - Tell people about this, make a presence for us.
   - Design eye-catching graphics for our various sites/locations.
   - **Requires**: guts, talent
 - Testers
-  - Test new versions before releasal to find bugs beforehand
+  - Test new versions before release to find bugs beforehand
   - Give suggestions and feedback
   - **Requires**: time, communication skills
 
