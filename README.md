@@ -68,7 +68,7 @@ Check out my friends cheat, maybe it is working c: https://github.com/u1qqlv/SUR
 
 Some other surviv.io projects to look at/Otros projectos relacionados a surviv.io:
 - Custom sounds/Sonidos personalizados https://github.com/humphreygaming/survivcustomsounds
-- Pro hack/Pro hack echo por AlexV https://github.com/u1qqlv/SURVIV.IO-PRO-HACK
+- Pro hack/Pro hack https://github.com/u1qqlv/SURVIV.IO-PRO-HACK
 
 cheat, surviv, io games, icehacks, ice, hacks, free, working, 2020, 2019, 2018, 2017, aimbot, survivio
 trampa, surviv, juegos io, icehacks, ice, hacks, gratis, funcionan, 2020, 2019, 2018, 2017, aimbot, survivio
