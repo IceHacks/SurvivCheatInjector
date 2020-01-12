@@ -20,9 +20,6 @@ How to install IceHacks:
 <sup>\* The cheat supports any chromium browser with extension support (this includes: Opera, Chrome, Edge Chromium, Vivaldi, ...).</sup>
 
 If you get any errors while installing make sure to have the right folder selected.
-  
-## To-do
-https://github.com/IceHacks/SurvivCheatInjector/projects/2
 
 ## Extraction
 How to extract on any system:
