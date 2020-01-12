@@ -20,36 +20,6 @@ How to install IceHacks:
 <sup>\* The cheat supports any chromium browser with extension support (this includes: Opera, Chrome, Edge Chromium, Vivaldi, ...).</sup>
 
 If you get any errors while installing make sure to have the right folder selected.
-
-## Features
-- AimBot
-  - Type
-    - Auto aim
-    - Aim on shoot
-    - Aim with RMB
-  - Aim collisions
-  - Aim using mouse
-  - Aim at objects
-  - Aim at downed
-  - AutoAttack™
-  - AutoShoot™
-  - MobileMovement™
-  - Aim FOV
-  - Velocity multiplier
-- Autoloot and Autodoors
-- Bumpfire
-- ESP
-  - Flashlight
-  - Blast radius
-- SpinBot™
-  - Spin angle
-- SniperSwitch™
-  - Ignore automatic weapons
-  - Minimum speed
-- Grenade Timer
-- Transparency
-  - Obstacles
-  - Ceilings
   
 ## To-do
 https://github.com/IceHacks/SurvivCheatInjector/projects/2
