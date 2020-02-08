@@ -31,7 +31,7 @@ How to extract on any system:
 
 MAKE SURE TO REFRESH THE EXTENSION WHEN THE GAME UPDATES
 
-Check out my friends cheat, maybe it is working c: https://github.com/u1qqlv/SURVIV.IO-PRO-HACK or join the [discord](https://discordapp.com/invite/mvsqsfG).
+Check out my friends cheat, maybe it is working c: https://github.com/u1qqlv/SURVIV.IO-PRO-HACK or join the [discord](https://discordapp.com/invite/WqhT8bb).
 
 ## Other projects
 
