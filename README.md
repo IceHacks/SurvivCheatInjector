@@ -2,6 +2,7 @@
 ![screenshot](https://cdn.discordapp.com/attachments/658048925592453136/662775433292546062/ss.png)
 ### Note: if you like this cheat, please star it.
 ### Note: Subscribe to [my YouTube Channel](https://www.youtube.com/c/IceHacks) where you can find special offers and promotions!
+### Note: Locked out of my Discord lol. But I made a really nice aimbot v2.1 for now I am using email to communicate.
 ## Download
 How to download IceHacks:
 
