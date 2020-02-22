@@ -2,8 +2,9 @@
 ![screenshot](https://cdn.discordapp.com/attachments/658048925592453136/662775433292546062/ss.png)
 ### Note: if you like this cheat, please star it.
 ### Note: Subscribe to [my YouTube Channel](https://www.youtube.com/c/IceHacks) where you can find special offers and promotions!
-How to download IceHacks:
+### Note: our Reddit, [r/survivcheatmasterrace](https://www.reddit.com/r/survivcheatmasterrace/)
 
+## Download
 1. Go to the [download page](https://github.com/IceHacks/SurvivCheatInjector/releases/latest).
 2. Click on "latest.zip" under "Assets", you will download the cheats `ZIP`.
 
