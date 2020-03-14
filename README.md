@@ -1,7 +1,5 @@
-# IceIceBaby/IceHacks is gone. Forever. Issues will be left un-attended and the code will no longer be updated. Nice trip, let's see how long it lasts :(
-
-
-
+# Surviv.io Cheat Injector GitHub Repository
+### Update expected soon, brace yourselves
 
 
 
