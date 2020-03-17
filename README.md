@@ -1,6 +1,5 @@
 # Surviv.io Cheat Injector GitHub Repository
-### Update expected soon, brace yourselves
-
+### Aimbot Tuning Update 2.0.8 is out!
 
 
 
@@ -42,7 +41,7 @@ How to extract on any system:
 
 MAKE SURE TO REFRESH THE EXTENSION WHEN THE GAME UPDATES
 
-Check out my friends cheat, maybe it is working c: https://github.com/u1qqlv/SURVIV.IO-PRO-HACK or join the [discord](https://discordapp.com/invite/WqhT8bb).
+Check out our friend's cheat, maybe it is working c: https://github.com/u1qqlv/SURVIV.IO-PRO-HACK or join the [discord](https://discord.gg/YbmkQzP).
 
 ## Other projects
 
