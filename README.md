@@ -1,5 +1,5 @@
 # Surviv.io Cheat Injector GitHub Repository
-### Aimbot Tuning Update 2.0.8 is out!
+### Broketh, be patient kiddos
 
 
 
