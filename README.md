@@ -1,5 +1,6 @@
 # Surviv.io Cheat Injector GitHub Repository
-### Was never broketh, impatient kiddos. 2.0.9 is out!
+Hey everyone, as you know, Icehacks ™️ does not currently work. Our devs have no motivation to fight against Kongregates anticheat. For two years we developed this cheat for free. We ask you to pitch in $.30-1 to help us continue developing the cheat.   https://www.paypal.me/LimaTM
+If we reach ten dollars, we will try to resolute a fix for this project. For now we are focusing on schoolwork.
 
 
 
