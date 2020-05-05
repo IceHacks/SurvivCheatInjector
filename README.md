@@ -1,5 +1,5 @@
 # Surviv.io Cheat Injector GitHub Repository
-Cheat fixed kiddos
+cheat will be fixed in a few hours, some minor issues
 
 
 
