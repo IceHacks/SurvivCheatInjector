@@ -1,5 +1,6 @@
 # Surviv.io Cheat Injector GitHub Repository
-nevermind, cheat works and Kong is bad at everything
+Broken I think, Fixing...
+Please be patient
 
 
 
