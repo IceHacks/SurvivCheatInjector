@@ -1,5 +1,5 @@
 # Surviv.io Cheat Injector GitHub Repository
-cheat will be fixed in a few hours, some minor issues
+nevermind, cheat works Kong sucks and surviv is dead
 
 
 
