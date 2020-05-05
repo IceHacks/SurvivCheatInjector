@@ -1,5 +1,5 @@
 # Surviv.io Cheat Injector GitHub Repository
-nevermind, cheat works Kong sucks and surviv is dead
+nevermind, cheat works and Kong is bad at everything
 
 
 
