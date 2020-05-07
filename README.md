@@ -1,6 +1,5 @@
 # Surviv.io Cheat Injector GitHub Repository
-Broken I think, Fixing...
-Please be patient
+Cheat is fixed now kids, go and ruin surviv now. (some features are going to be fixed soon)
 
 
 
