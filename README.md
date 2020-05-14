@@ -2,8 +2,7 @@
 ## Issues removed
 It's come to my attention that a pervert somewhere on the internet has abused Github's issue feature, so I shut it down. You can still send your bugs to the new Discord and other places. This was the easiest solution as I do not want to devote any time to deleting issues. Stay safe, IceHacks.
 
-# Surviv Cheat Injector
-![screenshot](https://cdn.discordapp.com/attachments/658048925592453136/662775433292546062/ss.png)
+### Note: HumphreyGaming, Zbot473, Lima, and StabbyAlbert have taken over development.
 ### Note: if you like this cheat, please star it.
 ### Note: Subscribe to [my YouTube Channel](https://www.youtube.com/c/IceHacks) where you can find special offers and promotions!
 ### Note: our Reddit, [r/survivcheatmasterrace](https://www.reddit.com/r/survivcheatmasterrace/)
