@@ -1,12 +1,6 @@
-# Surviv.io Cheat Injector GitHub Repository
-Cheat is fixed now kids, go and ruin surviv now. (some features are going to be fixed soon)
-
-
-
-
-
-
-
+# Surviv.io Cheat Injector
+## Issues removed
+It's come to my attention that a pervert somewhere on the internet has abused Github's issue feature, so I shut it down. You can still send your bugs to the new Discord and other places. This was the easiest solution as I do not want to devote any time to deleting issues. Stay safe, IceHacks.
 
 # Surviv Cheat Injector
 ![screenshot](https://cdn.discordapp.com/attachments/658048925592453136/662775433292546062/ss.png)
@@ -19,7 +13,7 @@ Cheat is fixed now kids, go and ruin surviv now. (some features are going to be 
 2. Click on "latest.zip" under "Assets", you will download the cheats `ZIP`.
 
 ## Installation
-How to install IceHacks:
+How to install it:
 
 1. Extract the `ZIP` file into a folder (if on ChromeOS follow [extraction instructions](#extraction)).
 2. Open Chrome*, and enter "chrome://extensions" in the address bar, or get to extensions via settings.
