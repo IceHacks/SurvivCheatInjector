@@ -1,7 +1,5 @@
 # Surviv.io Cheat Injector
-## Issues removed
-Cheat fixed 6/2/20
-Exam week, delayed fix will not happen again
+Cheat fixed 6/2/20: Exam week, delayed fix will not happen again
 ### Note: HumphreyGaming, Zbot473, Lima, and StabbyAlbert have taken over development.
 ### Note: if you like this cheat, please star it.
 ### Note: Subscribe to [my YouTube Channel](https://www.youtube.com/c/IceHacks) where you can find special offers and promotions!
