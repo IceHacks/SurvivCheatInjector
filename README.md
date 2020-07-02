@@ -1,5 +1,4 @@
 # [Discontinued] Surviv.io Cheat Injector
-Cheat fixed 6/2/20: Exam week, delayed fix will not happen again
 ### Note: Development has stopped as a new project is arrising. We have made the cheat officially open source now + release an overpowered bot sender. Find
 the repo here: https://github.com/humphreygaming/IceHacksGP-Product-Pack
 ### Note: if you like this cheat, please star it.
