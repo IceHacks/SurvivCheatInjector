@@ -1,4 +1,4 @@
-# [Discontinued] Surviv.io Cheat Injector
+# [Open Source] Surviv.io Cheat Injector
 ### Note: We have made the cheat officially open source now + released an overpowered bot sender. Find the repo here: https://github.com/humphreygaming/IceHacksGP-Product-Pack
 ### Note: if you like this cheat, please star it.
 ### Note: Subscribe to [my YouTube Channel](https://www.youtube.com/c/IceHacks) where you can find special offers and promotions!
