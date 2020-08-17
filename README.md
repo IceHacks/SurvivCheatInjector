@@ -1,5 +1,5 @@
 # [Open Source] Surviv.io Cheat Injector
-### News: Fixed ig. Have fun
+### News: 2.1.6 Rewrite out. Cheat fixed.
 ### Note: if you like this cheat, please star it.
 ### Note: Subscribe to [my YouTube Channel](https://www.youtube.com/c/IceHacks) where you can find special offers and promotions!
 ### Note: our Reddit, [r/survivcheatmasterrace](https://www.reddit.com/r/survivcheatmasterrace/)
