@@ -1,5 +1,5 @@
 # Surviv.io Cheat - 2021
-## IceHacks Surviv.io Cheat Injector Rewrite 3.0 is coming soon™️; it features a better aimbot and other improvements.
+## IceHacks Surviv.io Cheat Injector Rewrite 3.0 is coming soon™; it features a better aimbot and other improvements.
 
 
 
