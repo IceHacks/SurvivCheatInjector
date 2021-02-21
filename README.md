@@ -3,7 +3,7 @@
 
 ### [Subscribe](https://www.youtube.com/c/IceHacks?sub_confirmation=1) to my YouTube channel for future updates.
 
-###Hack is update only by IceHacks and HumphreyGaming
+### Hack is update only by IceHacks and HumphreyGaming
 
 Bitcoin: bc1qfkn67uaadjawqe68tnyrxlhxywuey4vc4gcjzw
 
