@@ -8,16 +8,16 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+<!-- A clear and concise description of what the bug is. -->
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+<!-- A clear and concise description of what you expected to happen. -->
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+<!-- If applicable, add screenshots to help explain your problem. -->
 
 **Cheat version**
-(ex: 1.1.0)
+<!-- (ex: 1.1.0) -->
 
 **Chromium version**
-(go to chrome://version/)
+<!-- (go to chrome://version/) -->
