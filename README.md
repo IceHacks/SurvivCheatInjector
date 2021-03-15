@@ -1,4 +1,7 @@
 # Surviv.io Cheat - 2021
+
+## In the meantime you can try IceHacks Aim Bot 1.0 instead of 2.0 of Humphrey Gaming (working)
+
 ## IceHacks Surviv.io Cheat Injector Rewrite 3.0 is coming soon™; it features a better aimbot and other improvements.
 
 ### [Subscribe](https://www.youtube.com/c/IceHacks?sub_confirmation=1) to my YouTube channel for future updates.
