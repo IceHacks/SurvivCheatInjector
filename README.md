@@ -1,7 +1,10 @@
 # Surviv.io Cheat - 2021
-## IceHacks Surviv.io Cheat Injector Rewrite 3.0 is coming soon™; it features a better aimbot and other improvements. Support for pre-3.0 versions is dropped.
+## IceHacks Surviv.io Cheat Injector Rewrite 3.0 is coming soon™; it features a better aimbot and other improvements.
 
 ### [Subscribe](https://www.youtube.com/c/IceHacks?sub_confirmation=1) to my YouTube channel for future updates.
+### Subscribe to our [Telegram Chat](https://t.me/icehacks) to receive live updates from the admins
+
+Support for pre-3.0 versions is dropped.
 
 Bitcoin: bc1qfkn67uaadjawqe68tnyrxlhxywuey4vc4gcjzw<br>
 Bitcoin (Legacy): 14DbnMJ8oFvP5XkDPAaPbNbBRW91uHyTgg<br>
