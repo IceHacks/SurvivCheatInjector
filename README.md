@@ -9,7 +9,7 @@
 
 Join Telegram / Discord server for more info or to test SCI V3.
 
-[Download and test SCI V3](https://mega.nz/file/SNpD0ShD#CgaKZ8jKCZBuaxgcZtsCmmOijoE793yakTN6ue9ao-I) now! (reqire window 64 bit)
+[Download and test SCI V3](https://github.com/iBLiSSIN/SurvivCheatInjector/releases/tag/3.0.0) now! (reqire window 64 bit)
 
 Support for pre-3.0 versions is dropped, so don't open new issues pertaining to those releases.
 
