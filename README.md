@@ -9,8 +9,16 @@
 
 Join Telegram / Discord server for more info or to test SCI V3.
 
-[Download and test SCI V3](https://github.com/iBLiSSIN/SurvivCheatInjector/releases/tag/3.0.0) now! (reqire window 64 bit)
-
 Support for pre-3.0 versions is dropped, so don't open new issues pertaining to those releases.
+
+### Note: if you like this cheat, please star it.
+### Note: Subscribe to [my YouTube Channel](https://www.youtube.com/c/IceHacks) where you can find special offers and promotions!
+### Note: our Reddit, [r/survivcheatmasterrace](https://www.reddit.com/r/survivcheatmasterrace/)
+
+## Download
+1. Go to the [download page](https://github.com/iBLiSSIN/SurvivCheatInjector/releases/latest).
+2. Click on `Surviv.Cheat.Setup.3.0.0.exe` under `Assets`, you will download the cheats 3.0.0 as a exe file.
+3. Run it then play!!!
+
 
 ###### cheat, surviv, io games, icehacks, ice, hacks, free, working, 2021, 2020, 2019, 2018, 2017, aimbot, survivio
