@@ -12,7 +12,7 @@ Join Telegram / Discord server for more info or to test SCI V3.
 Support for pre-3.0 versions is dropped, so don't open new issues pertaining to those releases.
 
 ### Note: if you like this cheat, please star it.
-### Note: Subscribe to [my YouTube Channel](https://www.youtube.com/c/IceHacks) where you can find special offers and promotions!
+### Note: Subscribe to [my YouTube Channel](https://www.youtube.com/channel/UCMZkPR_pngZGGRB8Ec7BkHA)!
 ### Note: our Reddit, [r/survivcheatmasterrace](https://www.reddit.com/r/survivcheatmasterrace/)
 
 ## Download
