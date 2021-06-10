@@ -18,8 +18,11 @@ Support for pre-3.0 versions is dropped, so don't open new issues pertaining to 
 
 ## Contact & Support
 My youtube channel: https://bit.ly/VNBPMchannel
+
 My facebook: https://www.facebook.com/profile.php?id=100069392284713
+
 My gmail: nam12344567890asm@gmail.com
+
 My discord: https://discord.gg/G8TQhFQCYd
 
 ###### cheat, surviv, io games, icehacks, ice, hacks, free, working, 2021, 2020, 2019, 2018, 2017, aimbot, survivio
