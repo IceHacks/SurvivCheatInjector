@@ -16,6 +16,7 @@ Support for pre-3.0 versions is dropped, so don't open new issues pertaining to 
 2. Click on `sci-3.0.2.exe` under `Assets`, you will download the cheats 3.0 as a exe file.
 3. Run it then play!!!
 
+### Note: It reqire window 64 bitrate.
 ## Contact & Support
 My youtube channel: https://bit.ly/VNBPMchannel
 
