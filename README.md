@@ -16,13 +16,15 @@ Support for pre-3.0 versions is dropped, so don't open new issues pertaining to 
 * Custom zooming control with scroll wheel and press shift key
 * Auto Clicker for semi automatic weapons
 * Autoloot
-* Displays enemy lines (red/white)
+* Displays enemy lines (red/white) and grenade radius (red)
 * Transparent buildings, ceilings, obstacles, and trees
 * Lasersight (shot range) will update soon
 * Frag grenade timer
 * Custom key bindings will update soon
 * Custom performance
 * Auto melee object (box,...)
+* Spinbot with custom speed
+* Auto chase with custom distance (melee hack)
 
 ## Download
 1. Go to the [download page](https://github.com/iBLiSSIN/SurvivCheatInjector/releases/latest).
