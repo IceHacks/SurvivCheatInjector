@@ -11,6 +11,17 @@ Join Telegram / Discord server for more info or to test SCI V3.
 
 Support for pre-3.0 versions is dropped, so don't open new issues pertaining to those releases.
 
+## Features
+* Aimbot with customizable forwardMultiplier (prediction) ,auto shoot FOV settings and AimOnClick
+* Custom zooming control with scroll wheel and press shift key
+* Auto Clicker for semi automatic weapons
+* Autoloot
+* Displays enemy lines (red/white)
+* Transparent buildings, ceilings, obstacles, and trees
+* Lasersight (shot range) will update soon
+* Frag grenade timer
+* Custom key bindings will update soon
+
 ## Download
 1. Go to the [download page](https://github.com/iBLiSSIN/SurvivCheatInjector/releases/latest).
 2. Click on `sci-3.0.2.exe` under `Assets`, you will download the cheats 3.0 as a exe file.
