@@ -25,6 +25,7 @@ Support for pre-3.0 versions is dropped, so don't open new issues pertaining to 
 * Auto melee object (box,...)
 * Spinbot with custom speed
 * Auto chase with custom distance (melee hack)
+* Auto heal
 
 ## Download
 1. Go to the [download page](https://github.com/iBLiSSIN/SurvivCheatInjector/releases/latest).
