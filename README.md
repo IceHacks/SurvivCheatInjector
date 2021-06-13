@@ -12,7 +12,7 @@ Join Telegram / Discord server for more info or to test SCI V3.
 Support for pre-3.0 versions is dropped, so don't open new issues pertaining to those releases.
 
 ## Features
-* Aimbot with customizable forwardMultiplier (prediction) ,auto shoot FOV settings and AimOnClick
+* Aimbot with customizable forwardMultiplier (prediction) ,auto shoot FOV and AimOnClick
 * Custom zooming control with scroll wheel and press shift key
 * Auto Clicker for semi automatic weapons
 * Autoloot
