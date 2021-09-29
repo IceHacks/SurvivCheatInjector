@@ -1,11 +1,11 @@
 # TERMS AND CONDITIONS
-### These are the terms for all my products.
-Use of this product require the obeying of these written rules.
+### Terms and Conditions for all of my products.
+The usage of this product requires the obeying of these written rules:
 
-- reproduction of this product with claims to creation is not allowed
-- duplication is not allowed
-- production in videos is prohibited unless you have permission
-- this product is not for retail sale or any other sale
-- I am not responsible for the outcomes of your actions
+- Reproduction of this product with claims to creation is **strictly prohibited**
+- Duplication of this product without prior given permission is **not allowed**
+- Production of videos regarding this produduct is **prohibited unless you have permission**
+- This product is **not for any type of sale**
+- I am **not responsible** for the outcomes of your actions
 
 basically this is mine and I am keeping it that way.
