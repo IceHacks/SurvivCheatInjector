@@ -2,7 +2,7 @@
 ![screenshot](https://media.discordapp.net/attachments/822567307410014261/835204258899034193/photo_2021-04-11_22-13-43.jpg)
 #### Subscribe to [my YouTube Channel](https://www.youtube.com/c/IceHacks?sub_confirmation=1) for future updates.
 #### Join [our Telegram Chat](https://t.me/ice_updates) to receive live updates from the admins.
-#### Visit [this hangout server](https://discord.gg/MCtzrWW7BA) to chat casually.
+#### Visit [this hangout server](https://discord.gg/cueXYN5GAz) to chat casually.
 
 ### News
 *3.0 is in the Testing Stage; Prepare for an Official Release this Summer!*
