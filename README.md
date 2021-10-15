@@ -5,10 +5,9 @@
 #### Visit [this hangout server](https://discord.gg/cueXYN5GAz) to chat casually.
 
 ### News
-*3.0 is in the Testing Stage; Prepare for an Official Release this Summer!*
+**Wrapping up:** The testing stages for v3 are close to completion. If you want to get early access, download it from releases.
+Join the Telegram Group / Discord Server for more info or to test SCI V3.
 
-Join Telegram / Discord server for more info or to test SCI V3.
-
-Support for pre-3.0 versions is dropped, so don't open new issues pertaining to those releases.
+Support for pre-v3.0 versions is currently limited. Be aware that if you post an issue pertaining to the matter, it may be disregarded.
 
 ###### cheat, surviv, io games, icehacks, ice, hacks, free, working, 2021, 2020, 2019, 2018, 2017, aimbot, survivio
